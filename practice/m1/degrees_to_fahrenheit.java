@@ -6,6 +6,6 @@ class degrees_to_fahrenheit{
 		System.out.println("Enter degrees");
 		float d=s.nextFloat();
 		float f= d * (9f / 5) + 32;
-		System.out.println("d: "+ d+ "f: "+ f);
+		System.out.println("d: "+ d+ " f: "+ f);
 	}
 }
