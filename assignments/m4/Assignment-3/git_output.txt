@@ -1,0 +1,18 @@
+warning: LF will be replaced by CRLF in assignments/m4/Assignment-3/testcases/problem_id.txt.
+The file will have its original line endings in your working directory.
+[master abd9f3c] "m4_a3: 1/1 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 1/1 "
+ 11 files changed, 79 insertions(+)
+ create mode 100644 assignments/m4/Assignment-3/Solution.class
+ create mode 100644 assignments/m4/Assignment-3/Solution.java
+ create mode 100644 assignments/m4/Assignment-3/check_style_errors.txt
+ create mode 100644 assignments/m4/Assignment-3/git_output.txt
+ create mode 100644 assignments/m4/Assignment-3/md5/input001.txt
+ create mode 100644 assignments/m4/Assignment-3/md5/output001.txt
+ create mode 100644 assignments/m4/Assignment-3/md5/problem_id.txt
+ create mode 100644 assignments/m4/Assignment-3/testcases/input001.txt
+ create mode 100644 assignments/m4/Assignment-3/testcases/output001.txt
+ create mode 100644 assignments/m4/Assignment-3/testcases/problem_id.txt
+ create mode 100644 assignments/m4/Assignment-3/testcases_output.txt
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   5d75935..abd9f3c  master -> master
