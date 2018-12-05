@@ -1,0 +1,182 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+2
+[5,-1,0,99]
+[-1,0]
+[0,99]
+Index Out of Bounds Exception
+false
+true
+4
+[5,-1,0,99]
+
+Your Output: 
+2
+[5,-1,0,99]
+[-1,0]
+[0,99]
+Index Out of Bounds Exception
+false
+true
+4
+[5,-1,0,99]
+----------------------------------------
+
+########## Testcase 1: Passed ##########
+Expected Output: 
+2
+[1,-1]
+Index Out of Bounds Exception
+true
+6
+[1,-1,0,0,0,-1]
+0
+
+Your Output: 
+2
+[1,-1]
+Index Out of Bounds Exception
+true
+6
+[1,-1,0,0,0,-1]
+0
+----------------------------------------
+
+########## Testcase 2: Passed ##########
+Expected Output: 
+2
+[D,c,-,+]
+[c,-]
+[-,+]
+Index Out of Bounds Exception
+false
+false
+4
+[D,c,-,+]
+
+Your Output: 
+2
+[D,c,-,+]
+[c,-]
+[-,+]
+Index Out of Bounds Exception
+false
+false
+4
+[D,c,-,+]
+----------------------------------------
+
+########## Testcase 3: Passed ##########
+Expected Output: 
+2
+[1a,2b]
+Index Out of Bounds Exception
+false
+6
+[1a,2b,0c,0d,0e,2f]
+0
+
+Your Output: 
+2
+[1a,2b]
+Index Out of Bounds Exception
+false
+6
+[1a,2b,0c,0d,0e,2f]
+0
+----------------------------------------
+
+########## Testcase 4: Passed ##########
+Expected Output: 
+2
+[5.1212,-1.3223,1.0E-11,99.0101]
+[-1.3223,1.0E-11]
+[1.0E-11,99.0101]
+Index Out of Bounds Exception
+false
+4
+[5.1212,-1.3223,1.0E-11,99.0101]
+
+Your Output: 
+2
+[5.1212,-1.3223,1.0E-11,99.0101]
+[-1.3223,1.0E-11]
+[1.0E-11,99.0101]
+Index Out of Bounds Exception
+false
+4
+[5.1212,-1.3223,1.0E-11,99.0101]
+----------------------------------------
+
+########## Testcase 5: Passed ##########
+Expected Output: 
+2
+[1.0,-1.0]
+Index Out of Bounds Exception
+true
+6
+[1.0,-1.0,0.0,0.0,0.0,-1.0]
+0
+
+Your Output: 
+2
+[1.0,-1.0]
+Index Out of Bounds Exception
+true
+6
+[1.0,-1.0,0.0,0.0,0.0,-1.0]
+0
+----------------------------------------
+
+########## Testcase 6: Passed ##########
+Expected Output: 
+2
+[5,-1,0,99]
+[-1,0]
+[0,99]
+Index Out of Bounds Exception
+false
+true
+4
+[5,-1,0,99]
+
+Your Output: 
+2
+[5,-1,0,99]
+[-1,0]
+[0,99]
+Index Out of Bounds Exception
+false
+true
+4
+[5,-1,0,99]
+----------------------------------------
+
+########## Testcase 7: Passed ##########
+Expected Output: 
+0
+Invalid Position Exception
+4
+[Manjunath,Praveen,Arun,SivaSankar]
+[Manjunath,Praveen,Arun,SivaSankar]
+[Manjunath,Praveen,Arun,SivaSankar,Rehana,Rajesh,Deepak,Murthy,Manasa]
+9
+true
+false
+false
+[Manjunath,Praveen,Arun,SivaSankar,Rehana,Rajesh,Manasa]
+
+Your Output: 
+0
+Invalid Position Exception
+4
+[Manjunath,Praveen,Arun,SivaSankar]
+[Manjunath,Praveen,Arun,SivaSankar]
+[Manjunath,Praveen,Arun,SivaSankar,Rehana,Rajesh,Deepak,Murthy,Manasa]
+9
+true
+false
+false
+[Manjunath,Praveen,Arun,SivaSankar,Rehana,Rajesh,Manasa]
+----------------------------------------
+
