@@ -1,0 +1,67 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+2
+[5,4,0,99]
+1
+6
+[5,4,10,0,9,99]
+9
+[5,4,10,0,9,99,1,2,3]
+
+Your Output: 
+2
+[5,4,0,99]
+1
+6
+[5,4,10,0,9,99]
+9
+[5,4,10,0,9,99,1,2,3]
+----------------------------------------
+
+########## Testcase 1: Passed ##########
+Expected Output: 
+0
+0
+[]
+3
+[1,2,3,4,4,4]
+[1,2,3,5,5,5,4,4,4]
+
+Your Output: 
+0
+0
+[]
+3
+[1,2,3,4,4,4]
+[1,2,3,5,5,5,4,4,4]
+----------------------------------------
+
+########## Testcase 2: Failed ##########
+Expected Output: 
+0
+0
+Invalid Position Exception
+[]
+-1
+Negative Index Exception
+[0]
+Invalid Position Exception
+[]
+[1,2,3,4,5,6,7,8,9,10,11]
+[11]
+[]
+
+Your Output: 
+0
+0
+Invalid Position Exception
+[]
+-1
+Negative Index Exception
+[0]
+[]
+[1,2,3,4,5,6,7,8,9,10,0]
+[0]
+[]
+----------------------------------------
+
