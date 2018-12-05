@@ -1,0 +1,72 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+2
+[5,-1,0,99]
+[-1,0]
+[0,99]
+Index Out of Bounds Exception
+false
+true
+4
+[5,-1,0,99]
+
+Your Output: 
+2
+[5,-1,0,99]
+[-1,0]
+[0,99]
+Index Out of Bounds Exception
+false
+true
+4
+[5,-1,0,99]
+----------------------------------------
+
+########## Testcase 1: Passed ##########
+Expected Output: 
+2
+[1,-1]
+Index Out of Bounds Exception
+true
+6
+[1,-1,0,0,0,-1]
+0
+[]
+
+Your Output: 
+2
+[1,-1]
+Index Out of Bounds Exception
+true
+6
+[1,-1,0,0,0,-1]
+0
+[]
+----------------------------------------
+
+########## Testcase 2: Passed ##########
+Expected Output: 
+Index Out of Bounds Exception
+Index Out of Bounds Exception
+Index Out of Bounds Exception
+0
+[]
+[]
+0
+false
+[1,2,3,4]
+false
+
+Your Output: 
+Index Out of Bounds Exception
+Index Out of Bounds Exception
+Index Out of Bounds Exception
+0
+[]
+[]
+0
+false
+[1,2,3,4]
+false
+----------------------------------------
+
