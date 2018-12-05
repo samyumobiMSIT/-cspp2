@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] D:\-cspp2\assignments\Module 15\Assignment-2\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] D:\-cspp2\assignments\Module 15\Assignment-2\Solution.java:6: Line has trailing spaces. [RegexpSingleline]
+Audit done.
+Checkstyle ends with 2 errors.
