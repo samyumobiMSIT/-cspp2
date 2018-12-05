@@ -1,0 +1,43 @@
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/Solution.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/StringList.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/testcases/input001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/testcases/input002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/testcases/input003.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/testcases/output001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/testcases/output002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-2/testcases/output003.txt.
+The file will have its original line endings in your working directory.
+[master 61980e6] "cspp2_m10_a02: 3/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 22 files changed, 525 insertions(+)
+ create mode 100644 assignments/Module 10/Assignment-2/Solution.class
+ create mode 100644 assignments/Module 10/Assignment-2/Solution.java
+ create mode 100644 assignments/Module 10/Assignment-2/StringList.class
+ create mode 100644 assignments/Module 10/Assignment-2/StringList.java
+ create mode 100644 assignments/Module 10/Assignment-2/StringListInterface.class
+ create mode 100644 assignments/Module 10/Assignment-2/check_style_errors.txt
+ create mode 100644 assignments/Module 10/Assignment-2/git_output.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/input001.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/input002.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/input003.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/output001.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/output002.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/output003.txt
+ create mode 100644 assignments/Module 10/Assignment-2/md5/problem_id.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/input001.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/input002.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/input003.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/output001.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/output002.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/output003.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases/problem_id.txt
+ create mode 100644 assignments/Module 10/Assignment-2/testcases_output.txt
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   46c5d38..61980e6  master -> master

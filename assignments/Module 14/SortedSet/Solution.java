@@ -2,9 +2,7 @@ import java.io.BufferedInputStream;
 import java.util.Scanner;
 import java.util.Arrays;
 /**
- * Class for set.
- * @author : Pranav Surampudi
- * Date: 09 Aug 2018
+ * 
  */
 class Set {
     //your code goes here...

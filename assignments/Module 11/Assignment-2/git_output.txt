@@ -1,0 +1,85 @@
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/List.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/Solution.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input003.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input004.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input005.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input006.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input007.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/input008.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output003.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output004.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output005.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output006.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output007.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/output008.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 11/Assignment-2/testcases/problem_id.txt.
+The file will have its original line endings in your working directory.
+[master 56438ab] "m11_a2: 8/8 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 42 files changed, 1328 insertions(+)
+ create mode 100644 assignments/Module 11/Assignment-2/List.class
+ create mode 100644 assignments/Module 11/Assignment-2/List.java
+ create mode 100644 assignments/Module 11/Assignment-2/Solution.class
+ create mode 100644 assignments/Module 11/Assignment-2/Solution.java
+ create mode 100644 assignments/Module 11/Assignment-2/Student.class
+ create mode 100644 assignments/Module 11/Assignment-2/check_style_errors.txt
+ create mode 100644 assignments/Module 11/Assignment-2/git_output.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input001.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input002.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input003.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input004.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input005.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input006.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input007.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/input008.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output001.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output002.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output003.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output004.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output005.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output006.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output007.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/output008.txt
+ create mode 100644 assignments/Module 11/Assignment-2/md5/problem_id.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input001.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input002.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input003.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input004.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input005.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input006.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input007.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/input008.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output001.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output002.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output003.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output004.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output005.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output006.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output007.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/output008.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases/problem_id.txt
+ create mode 100644 assignments/Module 11/Assignment-2/testcases_output.txt
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   a147cc8..56438ab  master -> master

@@ -3,8 +3,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 /**
  * Class for set.
- * @author : Pranav Surampudi
- * Date: 08 Aug 2018
+ * 
  */
 class Set {
     /**

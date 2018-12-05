@@ -1,0 +1,35 @@
+warning: LF will be replaced by CRLF in assignments/Module 14/SortedSet/Solution.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 14/SortedSet/testcases/input001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 14/SortedSet/testcases/input002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 14/SortedSet/testcases/output001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 14/SortedSet/testcases/output002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/Module 14/SortedSet/testcases/problem_id.txt.
+The file will have its original line endings in your working directory.
+[master 770b15d] "m14_a1: 2/2 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 18 files changed, 540 insertions(+)
+ create mode 100644 assignments/Module 14/SortedSet/Set.class
+ create mode 100644 assignments/Module 14/SortedSet/Solution.class
+ create mode 100644 assignments/Module 14/SortedSet/Solution.java
+ create mode 100644 assignments/Module 14/SortedSet/SortedSet.class
+ create mode 100644 assignments/Module 14/SortedSet/SortedSetADT.pdf
+ create mode 100644 assignments/Module 14/SortedSet/check_style_errors.txt
+ create mode 100644 assignments/Module 14/SortedSet/git_output.txt
+ create mode 100644 assignments/Module 14/SortedSet/md5/input001.txt
+ create mode 100644 assignments/Module 14/SortedSet/md5/input002.txt
+ create mode 100644 assignments/Module 14/SortedSet/md5/output001.txt
+ create mode 100644 assignments/Module 14/SortedSet/md5/output002.txt
+ create mode 100644 assignments/Module 14/SortedSet/md5/problem_id.txt
+ create mode 100644 assignments/Module 14/SortedSet/testcases/input001.txt
+ create mode 100644 assignments/Module 14/SortedSet/testcases/input002.txt
+ create mode 100644 assignments/Module 14/SortedSet/testcases/output001.txt
+ create mode 100644 assignments/Module 14/SortedSet/testcases/output002.txt
+ create mode 100644 assignments/Module 14/SortedSet/testcases/problem_id.txt
+ create mode 100644 assignments/Module 14/SortedSet/testcases_output.txt
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   495259f..770b15d  master -> master
