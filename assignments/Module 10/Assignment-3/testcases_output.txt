@@ -1,0 +1,184 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+[a1,b2,c3,d4,e5,f6,g7,h9]
+6
+[b2,d4,e5,f6,g7,h9,a1,b2,c3,d4,e5,f6,g7,h9]
+12
+[d4,f6,g7,h9,a1,b2,c3,d4,e5,f6,g7,h9]
+12
+[d4,f6,g7,a1,c3,e5,g7,h9]
+8
+Invalid Position Exception
+[d4,f6,g7,c3,g7]
+
+Your Output: 
+[a1,b2,c3,d4,e5,f6,g7,h9]
+6
+[b2,d4,e5,f6,g7,h9,a1,b2,c3,d4,e5,f6,g7,h9]
+12
+[d4,f6,g7,h9,a1,b2,c3,d4,e5,f6,g7,h9]
+12
+[d4,f6,g7,a1,c3,e5,g7,h9]
+8
+Invalid Position Exception
+[d4,f6,g7,c3,g7]
+----------------------------------------
+
+########## Testcase 1: Passed ##########
+Expected Output: 
+2
+[r,e,t,c]
+4
+[r,e,t,c]
+7
+[r,e,t,c,.,",:]
+[r,e,t,c,.,",:,t,c]
+9
+[r,e,t,c,.,",:,t,c]
+
+Your Output: 
+2
+[r,e,t,c]
+4
+[r,e,t,c]
+7
+[r,e,t,c,.,",:]
+[r,e,t,c,.,",:,t,c]
+9
+[r,e,t,c,.,",:,t,c]
+----------------------------------------
+
+########## Testcase 2: Passed ##########
+Expected Output: 
+0
+Invalid Position Exception
+[]
+[]
+Invalid Position Exception
+[]
+[1,2,3,4,5,6,7,8,9,10,11]
+[1]
+[]
+[1,2,3,4,5,6,7,8,9,10,11]
+[1,2,3,4,5,6,7,8,1,2,3,4,5,6,7,8,9,10,11]
+
+Your Output: 
+0
+Invalid Position Exception
+[]
+[]
+Invalid Position Exception
+[]
+[1,2,3,4,5,6,7,8,9,10,11]
+[1]
+[]
+[1,2,3,4,5,6,7,8,9,10,11]
+[1,2,3,4,5,6,7,8,1,2,3,4,5,6,7,8,9,10,11]
+----------------------------------------
+
+########## Testcase 3: Passed ##########
+Expected Output: 
+0
+Invalid Position Exception
+Invalid Position Exception
+Invalid Position Exception
+[9.01,1212.2]
+Invalid Position Exception
+Invalid Position Exception
+Invalid Position Exception
+[9.01,1212.2,9.01,1212.2]
+Invalid Position Exception
+[9.01,1212.2,9.01,1212.2]
+Invalid Position Exception
+Invalid Position Exception
+[9.01,1212.2,9.01,9.01,1212.2]
+[9.01,9.01,1212.2]
+[9.01,1212.2]
+2
+
+Your Output: 
+0
+Invalid Position Exception
+Invalid Position Exception
+Invalid Position Exception
+[9.01,1212.2]
+Invalid Position Exception
+Invalid Position Exception
+Invalid Position Exception
+[9.01,1212.2,9.01,1212.2]
+Invalid Position Exception
+[9.01,1212.2,9.01,1212.2]
+Invalid Position Exception
+Invalid Position Exception
+[9.01,1212.2,9.01,9.01,1212.2]
+[9.01,9.01,1212.2]
+[9.01,1212.2]
+2
+----------------------------------------
+
+########## Testcase 4: Passed ##########
+Expected Output: 
+0
+Invalid Position Exception
+[]
+[]
+Invalid Position Exception
+[]
+[1.2,2.3,3.4,4.5,5.6,6.7,7.8]
+[1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[1.2,4.5,5.6,6.7,7.8,9.01,1212.2]
+[4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8]
+[4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[4.5,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8]
+[7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[7.8,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[1.2,2.3,3.4,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+15
+
+Your Output: 
+0
+Invalid Position Exception
+[]
+[]
+Invalid Position Exception
+[]
+[1.2,2.3,3.4,4.5,5.6,6.7,7.8]
+[1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[1.2,4.5,5.6,6.7,7.8,9.01,1212.2]
+[4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8]
+[4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[4.5,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8]
+[7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[7.8,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+[1.2,2.3,3.4,7.8,9.01,1212.2,1.2,2.3,3.4,4.5,5.6,6.7,7.8,9.01,1212.2]
+15
+----------------------------------------
+
+########## Testcase 5: Passed ##########
+Expected Output: 
+0
+Invalid Position Exception
+3
+[Manjunath,Praveen,Arun]
+[Manjunath,Praveen,Arun,Rehana,Rajesh,Deepak,Murthy,Manasa]
+8
+true
+false
+false
+[Manjunath,Praveen,Arun,Rehana,Rajesh,Deepak]
+
+Your Output: 
+0
+Invalid Position Exception
+3
+[Manjunath,Praveen,Arun]
+[Manjunath,Praveen,Arun,Rehana,Rajesh,Deepak,Murthy,Manasa]
+8
+true
+false
+false
+[Manjunath,Praveen,Arun,Rehana,Rajesh,Deepak]
+----------------------------------------
+
