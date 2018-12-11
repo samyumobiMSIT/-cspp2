@@ -1,0 +1,147 @@
+Microsoft Windows [Version 10.0.17134.407]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+D:\-cspp2\assignments\Module 16\bookyourshow>eval Solution.java
+Traceback (most recent call last):
+  File "eval.py", line 354, in <module>
+  File "eval.py", line 212, in run_tests
+TypeError: 'bool' object is not subscriptable
+[616] Failed to execute script eval
+
+D:\-cspp2\assignments\Module 16\bookyourshow>git log
+commit d428f54c2a2c035ba97e390b540970eb36267611 (HEAD -> master, origin/master)
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:47:55 2018 +0530
+
+    cspp2
+
+commit 5dbf6890a89a04eac92e25b9f8b75e81f1c933b1
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:40:01 2018 +0530
+
+    "m15_a2: 4/4 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit a31f224e9b12bfb34492e19ab6701c7e1c03306e
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:38:53 2018 +0530
+
+    "m15_a1: 3/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 770b15d4326c3cd0e41a152fc908155a3ae91ef3
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:37:24 2018 +0530
+
+    "m14_a1: 2/2 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 495259fd8bac3c5f1f4d70014e137e34c47e6e0d
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:36:09 2018 +0530
+
+    "week2_a1: 4/4 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 56438ab626bdec3da4930ebc9e11b4b319c43f81
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:34:07 2018 +0530
+
+    "m11_a2: 8/8 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit a147cc8e33a9dc1de6ab1133739f61ac196a5c8d
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:33:02 2018 +0530
+
+    "m11_a1: 3/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 3bbf52035d3e31ab83f54ad32e6c0e2772fd7c88
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:31:41 2018 +0530
+
+    "cspp2_m10_a03: 6/6 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 61980e600e4b92d51629ee324db12c5911cc78ee
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:30:57 2018 +0530
+
+    "cspp2_m10_a02: 3/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 46c5d388c8bc31d476163bf6bfbf3581538da6c6
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:30:14 2018 +0530
+
+    "list_homework: 2/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit ce762492e8a3048c682cb2e8f3e22f463503dc30
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Wed Dec 5 17:26:23 2018 +0530
+
+    "m9_a1: 4/4 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 9b8d284de24dafd69f39cfe0fe0bc7fb49e2e732
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 18:03:59 2018 +0530
+
+    a11,a12
+
+commit 3f269bbadc10d0508dce93dfb9c09cad5bbc7ce1
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 18:02:41 2018 +0530
+
+    10
+
+commit 34fd6e1e61a426cffe07755f2d1f77d8f216cfd4
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:45:01 2018 +0530
+
+    cspp2
+
+commit 8d0acf406b6b2c8f232b4e56a2f3539e8f7a0586
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:42:47 2018 +0530
+
+    "m7_a1_1: 5/5 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit b6bfa81907648b99ac2f561f581c8eb3dcc3e1fd
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:36:40 2018 +0530
+
+    "m6_a3_1: 5/5 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 42abf4038494dd2bda8b0ead6394d7940afd992c
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:35:39 2018 +0530
+
+    "m6_a2_1: 5/5 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit 99e1e072708a2700a55338204e80403d314980b7
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:27:19 2018 +0530
+
+    "m6_a1_1: 6/6 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit bbf089ceeeb641263a0f6867c6ccf4d64c5a00a0
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:23:01 2018 +0530
+
+    "m4_a4: 5/5 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit ff1dae3ac50a9149fc51dbda4ccf75f5be48f8f1
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:22:02 2018 +0530
+
+    "m4_a2: 4/4 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+
+commit abd9f3cc23097f2d3a526f6daba55e95e534c3d7
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Tue Dec 4 17:20:31 2018 +0530
+
+    "m4_a3: 1/1 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 1/1 "
+
+commit 5d75935dcc77e36fa57b4f5e95c39f53b5388de3
+Author: samyumobiMSIT <samyumobi@msitprogram.net>
+Date:   Mon Oct 29 14:16:17 2018 +0530
+
+    hello
+
+    hello
+
+commit b130336adbaf7a2cec8786b29ee702b538be21ae
+:
