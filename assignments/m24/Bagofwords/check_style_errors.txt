@@ -1,0 +1,28 @@
+Starting audit...
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:1:8: Unused import - java.io.BufferedReader. [UnusedImports]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:2:8: Unused import - java.io.File. [UnusedImports]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:3:8: Unused import - java.io.FileReader. [UnusedImports]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:4:8: Unused import - java.io.IOException. [UnusedImports]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:6:8: Unused import - java.util.Hashtable. [UnusedImports]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:8: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:9: Using the '.*' form of import should be avoided - java.io.*. [AvoidStarImport]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:11: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:12:1: File contains tab characters (this is the first instance). [FileTabCharacter]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:12:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:12:30: Variable 'dictionary1' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:13:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:13:30: Variable 'dictionary2' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:14:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:19:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:19:31: Parameter list should be final. [FinalParameters]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:29:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:29:31: Parameter list should be final. [FinalParameters]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:40:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\BagOfWords.java:58:41: '100' is a magic number. [MagicNumber]
+Audit done.
+Checkstyle ends with 21 errors.
+Starting audit...
+[ERROR] D:\-cspp2\assignments\m24\Bagofwords\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
