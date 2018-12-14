@@ -1,0 +1,590 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+4 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+question text 2(2)
+choice 1	choice 2	choice 3	choice 4
+
+question text 3(3)
+choice 1	choice 2	choice 3	choice 4
+
+question text 4(4)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Correct Answer! - Marks Awarded: 1
+question text 2
+ Correct Answer! - Marks Awarded: 2
+question text 3
+ Correct Answer! - Marks Awarded: 3
+question text 4
+ Correct Answer! - Marks Awarded: 4
+Total Score: 10
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+4 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+question text 2(2)
+choice 1	choice 2	choice 3	choice 4
+
+question text 3(3)
+choice 1	choice 2	choice 3	choice 4
+
+question text 4(4)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Correct Answer! - Marks Awarded: 1
+question text 2
+ Correct Answer! - Marks Awarded: 2
+question text 3
+ Correct Answer! - Marks Awarded: 3
+question text 4
+ Correct Answer! - Marks Awarded: 4
+Total Score: 10
+----------------------------------------
+
+########## Testcase 1: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+4 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+question text 2(2)
+choice 1	choice 2	choice 3	choice 4
+
+question text 3(3)
+choice 1	choice 2	choice 3	choice 4
+
+question text 4(4)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Wrong Answer! - Penalty: -4
+question text 2
+ Wrong Answer! - Penalty: -3
+question text 3
+ Wrong Answer! - Penalty: -2
+question text 4
+ Wrong Answer! - Penalty: -1
+Total Score: -10
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+4 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+question text 2(2)
+choice 1	choice 2	choice 3	choice 4
+
+question text 3(3)
+choice 1	choice 2	choice 3	choice 4
+
+question text 4(4)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Wrong Answer! - Penalty: -4
+question text 2
+ Wrong Answer! - Penalty: -3
+question text 3
+ Wrong Answer! - Penalty: -2
+question text 4
+ Wrong Answer! - Penalty: -1
+Total Score: -10
+----------------------------------------
+
+########## Testcase 2: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+4 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+question text 2(2)
+choice 1	choice 2	choice 3	choice 4
+
+question text 3(3)
+choice 1	choice 2	choice 3	choice 4
+
+question text 4(4)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Correct Answer! - Marks Awarded: 1
+question text 2
+ Wrong Answer! - Penalty: -3
+question text 3
+ Wrong Answer! - Penalty: -2
+question text 4
+ Wrong Answer! - Penalty: -1
+Total Score: -5
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+4 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+question text 2(2)
+choice 1	choice 2	choice 3	choice 4
+
+question text 3(3)
+choice 1	choice 2	choice 3	choice 4
+
+question text 4(4)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Correct Answer! - Marks Awarded: 1
+question text 2
+ Wrong Answer! - Penalty: -3
+question text 3
+ Wrong Answer! - Penalty: -2
+question text 4
+ Wrong Answer! - Penalty: -1
+Total Score: -5
+----------------------------------------
+
+########## Testcase 3: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+10 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question a(1)
+choice a	choice b	choice c	choice d
+
+question b(2)
+choice a	choice b	choice c	choice d
+
+question c(3)
+choice a	choice b	choice c	choice d
+
+question d(4)
+choice a	choice b	choice c	choice d
+
+question e(1)
+choice a	choice b	choice c	choice d
+
+question f(2)
+choice a	choice b	choice c	choice d
+
+question g(3)
+choice a	choice b	choice c	choice d
+
+question h(4)
+choice a	choice b	choice c	choice d
+
+question i(1)
+choice a	choice b	choice c	choice d
+
+question j(2)
+choice a	choice b	choice c	choice d
+
+|--------------|
+| Score Report |
+|--------------|
+question a
+ Wrong Answer! - Penalty: 0
+question b
+ Wrong Answer! - Penalty: 0
+question c
+ Correct Answer! - Marks Awarded: 3
+question d
+ Wrong Answer! - Penalty: 0
+question e
+ Wrong Answer! - Penalty: 0
+question f
+ Wrong Answer! - Penalty: 0
+question g
+ Wrong Answer! - Penalty: 0
+question h
+ Wrong Answer! - Penalty: 0
+question i
+ Wrong Answer! - Penalty: 0
+question j
+ Wrong Answer! - Penalty: 0
+Total Score: 3
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+10 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question a(1)
+choice a	choice b	choice c	choice d
+
+question b(2)
+choice a	choice b	choice c	choice d
+
+question c(3)
+choice a	choice b	choice c	choice d
+
+question d(4)
+choice a	choice b	choice c	choice d
+
+question e(1)
+choice a	choice b	choice c	choice d
+
+question f(2)
+choice a	choice b	choice c	choice d
+
+question g(3)
+choice a	choice b	choice c	choice d
+
+question h(4)
+choice a	choice b	choice c	choice d
+
+question i(1)
+choice a	choice b	choice c	choice d
+
+question j(2)
+choice a	choice b	choice c	choice d
+
+|--------------|
+| Score Report |
+|--------------|
+question a
+ Wrong Answer! - Penalty: 0
+question b
+ Wrong Answer! - Penalty: 0
+question c
+ Correct Answer! - Marks Awarded: 3
+question d
+ Wrong Answer! - Penalty: 0
+question e
+ Wrong Answer! - Penalty: 0
+question f
+ Wrong Answer! - Penalty: 0
+question g
+ Wrong Answer! - Penalty: 0
+question h
+ Wrong Answer! - Penalty: 0
+question i
+ Wrong Answer! - Penalty: 0
+question j
+ Wrong Answer! - Penalty: 0
+Total Score: 3
+----------------------------------------
+
+########## Testcase 4: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+1 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Wrong Answer! - Penalty: -4
+Total Score: -4
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+1 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question text 1(1)
+choice 1	choice 2	choice 3	choice 4
+
+|--------------|
+| Score Report |
+|--------------|
+question text 1
+ Wrong Answer! - Penalty: -4
+Total Score: -4
+----------------------------------------
+
+########## Testcase 5: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Quiz does not have questions
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Quiz does not have questions
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
+########## Testcase 6: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Error! Malformed question
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Error! Malformed question
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
+########## Testcase 7: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Error! Correct answer choice number is out of range for question text 1
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Error! Correct answer choice number is out of range for question text 1
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
+########## Testcase 8: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+trick question  does not have enough answer choices
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+trick question  does not have enough answer choices
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
+########## Testcase 9: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+1 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question about sony(1)
+choice 4	choice 2
+
+|--------------|
+| Score Report |
+|--------------|
+question about sony
+ Correct Answer! - Marks Awarded: 1
+Total Score: 1
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+1 are added to the quiz
+|------------|
+| Start Quiz |
+|------------|
+question about sony(1)
+choice 4	choice 2
+
+|--------------|
+| Score Report |
+|--------------|
+question about sony
+ Correct Answer! - Marks Awarded: 1
+Total Score: 1
+----------------------------------------
+
+########## Testcase 10: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Invalid max marks for question about sony
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Invalid max marks for question about sony
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
+########## Testcase 11: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Invalid penalty for question about sony
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Invalid penalty for question about sony
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
+########## Testcase 12: Passed ##########
+Expected Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Error! Malformed question
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+
+Your Output: 
+|----------------|
+| Load Questions |
+|----------------|
+Error! Malformed question
+|------------|
+| Start Quiz |
+|------------|
+|--------------|
+| Score Report |
+|--------------|
+----------------------------------------
+
