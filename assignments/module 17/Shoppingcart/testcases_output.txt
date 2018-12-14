@@ -1,0 +1,242 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+greentea 128 120.0
+Eggs 65 5.0
+rice5kg 109 300.0
+curd 22 30.0
+cofee 81 300.0
+curd 19
+cofee 16
+totalAmount: 5370.0
+curd 14
+cofee 16
+totalAmount: 5220.0
+curd 14
+cofee 15
+totalAmount: 4920.0
+Payable amount: 5658.0
+Name   quantity   Price
+curd 14 30.0
+cofee 15 300.0
+Total:4920.0
+Disc%:0.0
+Tax:738.0
+Payable amount: 5658.0
+
+Your Output: 
+greentea 128 120.0
+Eggs 65 5.0
+rice5kg 109 300.0
+curd 22 30.0
+cofee 81 300.0
+curd 19
+cofee 16
+totalAmount: 5370.0
+curd 14
+cofee 16
+totalAmount: 5220.0
+curd 14
+cofee 15
+totalAmount: 4920.0
+Payable amount: 5658.0
+Name   quantity   Price
+curd 14 30.0
+cofee 15 300.0
+Total:4920.0
+Disc%:0.0
+Tax:738.0
+Payable amount: 5658.0
+----------------------------------------
+
+########## Testcase 1: Passed ##########
+Expected Output: 
+bread 194 30.0
+chicken 148 180.0
+Eggs 218 5.0
+peas 47 40.0
+milk 31 28.0
+rice5kg 108 300.0
+cup 143 400.0
+milk 19
+cup 2
+totalAmount: 1332.0
+milk 19
+milk 19
+peas 5
+bread 50
+Payable amount: 2566.8
+totalAmount: 2232.0
+Payable amount: 1283.4
+Name   quantity   Price
+milk 19 28.0
+peas 5 40.0
+bread 50 30.0
+Total:2232.0
+Disc%:1116.0
+Tax:167.4
+Payable amount: 1283.4
+
+Your Output: 
+bread 194 30.0
+chicken 148 180.0
+Eggs 218 5.0
+peas 47 40.0
+milk 31 28.0
+rice5kg 108 300.0
+cup 143 400.0
+milk 19
+cup 2
+totalAmount: 1332.0
+milk 19
+milk 19
+peas 5
+bread 50
+Payable amount: 2566.8
+totalAmount: 2232.0
+Payable amount: 1283.4
+Name   quantity   Price
+milk 19 28.0
+peas 5 40.0
+bread 50 30.0
+Total:2232.0
+Disc%:1116.0
+Tax:167.4
+Payable amount: 1283.4
+----------------------------------------
+
+########## Testcase 2: Passed ##########
+Expected Output: 
+paneer 63 160.0
+curd 219 30.0
+greentea 150 120.0
+oil_1l 114 100.0
+peas 36 40.0
+cofee 146 30.0
+ghee 46 520.0
+honey 79 280.0
+milk 30 30.0
+totalAmount: 14360.0
+honey 50
+milk 12
+cofee 8
+totalAmount: 15960.0
+totalAmount: 15900.0
+Payable amount: 12799.5
+Name   quantity   Price
+honey 50 280.0
+milk 10 30.0
+cofee 8 30.0
+peas 34 40.0
+Total:15900.0
+Disc%:4770.0
+Tax:1669.5
+Payable amount: 12799.5
+
+Your Output: 
+paneer 63 160.0
+curd 219 30.0
+greentea 150 120.0
+oil_1l 114 100.0
+peas 36 40.0
+cofee 146 30.0
+ghee 46 520.0
+honey 79 280.0
+milk 30 30.0
+totalAmount: 14360.0
+honey 50
+milk 12
+cofee 8
+totalAmount: 15960.0
+totalAmount: 15900.0
+Payable amount: 12799.5
+Name   quantity   Price
+honey 50 280.0
+milk 10 30.0
+cofee 8 30.0
+peas 34 40.0
+Total:15900.0
+Disc%:4770.0
+Tax:1669.5
+Payable amount: 12799.5
+----------------------------------------
+
+########## Testcase 3: Passed ##########
+Expected Output: 
+cheese 211 80.0
+honey 150 280.0
+cofee 190 750.0
+greentea 97 120.0
+chicken 147 180.0
+ghee 194 520.0
+rice5kg 169 300.0
+milk 33 28.0
+cofee 4
+chicken 10
+rice5kg 10
+honey 5
+cofee 4
+chicken 10
+rice5kg 12
+honey 5
+cofee 4
+chicken 10
+rice5kg 12
+honey 3
+milk 4
+cheese 4
+totalAmount: 9672.0
+Payable amount: 11122.8
+Invalid coupon
+Payable amount: 11122.8
+Name   quantity   Price
+cofee 4 750.0
+chicken 10 180.0
+rice5kg 12 300.0
+honey 3 280.0
+milk 4 28.0
+cheese 4 80.0
+Total:9672.0
+Disc%:0.0
+Tax:1450.8
+Payable amount: 11122.8
+
+Your Output: 
+cheese 211 80.0
+honey 150 280.0
+cofee 190 750.0
+greentea 97 120.0
+chicken 147 180.0
+ghee 194 520.0
+rice5kg 169 300.0
+milk 33 28.0
+cofee 4
+chicken 10
+rice5kg 10
+honey 5
+cofee 4
+chicken 10
+rice5kg 12
+honey 5
+cofee 4
+chicken 10
+rice5kg 12
+honey 3
+milk 4
+cheese 4
+totalAmount: 9672.0
+Payable amount: 11122.8
+Invalid coupon
+Payable amount: 11122.8
+Name   quantity   Price
+cofee 4 750.0
+chicken 10 180.0
+rice5kg 12 300.0
+honey 3 280.0
+milk 4 28.0
+cheese 4 80.0
+Total:9672.0
+Disc%:0.0
+Tax:1450.8
+Payable amount: 11122.8
+----------------------------------------
+
