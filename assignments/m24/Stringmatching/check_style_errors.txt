@@ -1,0 +1,31 @@
+Starting audit...
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:17: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:18: Using the '.*' form of import should be avoided - java.io.*. [AvoidStarImport]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:19: Using the '.*' form of import should be avoided - java.net.*. [AvoidStarImport]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:21: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:22:1: File contains tab characters (this is the first instance). [FileTabCharacter]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:24:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:25:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:25:16: Variable 's1' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:26:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:26:16: Variable 's2' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:27:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:27:16: Variable 'ans' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:29:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:29:25: Parameter inputFile should be final. [FinalParameters]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:29:41: Parameter inputFile2 should be final. [FinalParameters]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:33: Line is longer than 80 characters (found 87). [LineLength]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:47:51: ';' is preceded with whitespace. [NoWhitespaceBefore]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:49: Line is longer than 80 characters (found 97). [LineLength]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:50: Line is longer than 80 characters (found 81). [LineLength]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:56:39: '100' is a magic number. [MagicNumber]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:58:71: '100' is a magic number. [MagicNumber]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:73:9: Class 'Distance' looks like designed for extension (can be subclassed), but the method 'getSimilarity' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'Distance' final or making the method 'getSimilarity' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Distance.java:73:9: Missing a Javadoc comment. [JavadocMethod]
+Audit done.
+Checkstyle ends with 24 errors.
+Starting audit...
+[ERROR] D:\-cspp2\assignments\m24\Stringmatching\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
