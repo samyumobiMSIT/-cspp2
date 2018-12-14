@@ -1,0 +1,51 @@
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/Distance.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/Solution.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/testcases/input001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/testcases/input002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/testcases/output001.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/testcases/output002.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/testcases/output003.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in assignments/m24/Stringmatching/testcases/problem_id.txt.
+The file will have its original line endings in your working directory.
+[master 90fbcf2] "final_project_a2_1: 3/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 30 files changed, 243 insertions(+)
+ create mode 100644 assignments/m24/Stringmatching/Distance.class
+ create mode 100644 assignments/m24/Stringmatching/Distance.java
+ create mode 100644 assignments/m24/Stringmatching/Solution.class
+ create mode 100644 assignments/m24/Stringmatching/Solution.java
+ create mode 100644 assignments/m24/Stringmatching/Test1/file1.txt
+ create mode 100644 assignments/m24/Stringmatching/Test1/file2.txt
+ create mode 100644 assignments/m24/Stringmatching/Test1/file3.txt
+ create mode 100644 assignments/m24/Stringmatching/Test1/file4.txt
+ create mode 100644 assignments/m24/Stringmatching/Test1/file5.txt
+ create mode 100644 assignments/m24/Stringmatching/Test2/file1.txt
+ create mode 100644 assignments/m24/Stringmatching/Test2/file2.txt
+ create mode 100644 assignments/m24/Stringmatching/Test2/file3.txt
+ create mode 100644 assignments/m24/Stringmatching/Test2/file4.txt
+ create mode 100644 assignments/m24/Stringmatching/check_style_errors.txt
+ create mode 100644 assignments/m24/Stringmatching/git_output.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/input001.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/input002.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/input003.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/output001.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/output002.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/output003.txt
+ create mode 100644 assignments/m24/Stringmatching/md5/problem_id.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/input001.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/input002.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/input003.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/output001.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/output002.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/output003.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases/problem_id.txt
+ create mode 100644 assignments/m24/Stringmatching/testcases_output.txt
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   d06b773..90fbcf2  master -> master
