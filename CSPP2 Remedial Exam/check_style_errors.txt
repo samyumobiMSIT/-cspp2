@@ -148,11 +148,10 @@ Starting audit...
 [ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:76:9: Class 'Hotel' looks like designed for extension (can be subclassed), but the method 'printReservations' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'Hotel' final or making the method 'printReservations' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
 [ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:76:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:77:9: '{' at column 2 should be on the previous line. [LeftCurly]
-[ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:78: Line is longer than 80 characters (found 97). [LineLength]
-[ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:78:58: '+' is not preceded with whitespace. [WhitespaceAround]
-[ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:78:59: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:78:40: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\-cspp2\CSPP2 Remedial Exam\Hotel.java:78:41: '+' is not followed by whitespace. [WhitespaceAround]
 Audit done.
-Checkstyle ends with 152 errors.
+Checkstyle ends with 151 errors.
 Starting audit...
 [ERROR] D:\-cspp2\CSPP2 Remedial Exam\Reservation.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] D:\-cspp2\CSPP2 Remedial Exam\Reservation.java:1: First sentence should end with a period. [JavadocStyle]

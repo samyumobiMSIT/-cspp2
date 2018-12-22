@@ -75,6 +75,6 @@ public class Hotel
  
 	public void printReservations()
 	{
-		 System.out.println("Rooms allocated are"+rooms);     // printing the linked list
+		 System.out.println(" "+rooms);     // printing the linked list
 	}
 }

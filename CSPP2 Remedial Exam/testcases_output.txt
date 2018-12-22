@@ -17,7 +17,7 @@ karan 3
 Name: murthy 2
 rajiv 5
 Name: kalyani 3
-Rooms allocated are[rehana :  1, karan : 3, murthy :  2, rajiv : 5, kalyani :  3]
+ [rehana :  1, karan : 3, murthy :  2, rajiv : 5, kalyani :  3]
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -41,7 +41,7 @@ Name: rajiv 1
 Name: kalyani 2
 Name: kumar 3
 Name: swathi 4
-Rooms allocated are[kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4]
+ [kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4]
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -67,7 +67,7 @@ Name: kalyani 2
 Name: kumar 3
 Name: swathi 4
 alekhya 5
-Rooms allocated are[kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4, alekhya : 5]
+ [kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4, alekhya : 5]
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -93,7 +93,7 @@ Name: kalyani 1
 Name: kumar 2
 Name: swathi 3
 alekhya 5
-Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 5]
+ [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 5]
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -125,7 +125,7 @@ Name: swathi 3
 Added 2 more rooms
 alekhya 6
 Name: manasa 4
-Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 6, manasa :  4]
+ [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 6, manasa :  4]
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -159,7 +159,7 @@ kiran 2
 murthy 1
 Name: kumar 1
 kumar 3
-Rooms allocated are[kiran : 2, murthy : 1, kumar :  1, kumar : 3]
+ [kiran : 2, murthy : 1, kumar :  1, kumar : 3]
 Added 5 more rooms
 alekhya 6
 Name: manasa 2
@@ -167,7 +167,7 @@ Name: kumar 3
 Name: karthik 4
 Name: manohar 5
 Name: kumar 6
-Rooms allocated are[kiran : 2, murthy : 1, kumar :  1, kumar : 3, alekhya : 6, manasa :  2, kumar :  3, karthik :  4, manohar :  5, kumar :  6]
+ [kiran : 2, murthy : 1, kumar :  1, kumar : 3, alekhya : 6, manasa :  2, kumar :  3, karthik :  4, manohar :  5, kumar :  6]
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -206,7 +206,7 @@ rajiv 2
 Name: kalyani 1
 Name: kumar 2
 Name: swathi 3
-Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3]
+ [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3]
 Exception in thread "main" java.lang.NumberFormatException: For input string: " 2"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:569)
@@ -256,7 +256,7 @@ rajiv 2
 Name: kalyani 1
 Name: kumar 2
 Name: kumar 3
-Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, kumar :  3]
+ [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, kumar :  3]
 Exception in thread "main" java.lang.NumberFormatException: For input string: " 2"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:569)
