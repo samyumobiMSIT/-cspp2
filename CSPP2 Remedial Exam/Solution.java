@@ -17,7 +17,6 @@ public class Solution{
 				switch(tokens[0])
 				{
 					case "reserve":
-									System.out.print("Name: ");
 									System.out.flush();
 									name = tokens[1];
 									roomnum = -1;

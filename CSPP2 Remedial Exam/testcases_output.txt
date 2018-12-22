@@ -12,11 +12,11 @@ kalyani 4
 rajiv 5
 
 Your Output: 
-Name: rehana 1
+rehana 1
 karan 3
-Name: murthy 2
+murthy 2
 rajiv 5
-Name: kalyani 3
+kalyani 3
  [rehana :  1, karan : 3, murthy :  2, rajiv : 5, kalyani :  3]
 ----------------------------------------
 
@@ -37,10 +37,10 @@ kumar 5
 Your Output: 
 kiran 2
 murthy 1
-Name: rajiv 1
-Name: kalyani 2
-Name: kumar 3
-Name: swathi 4
+rajiv 1
+kalyani 2
+kumar 3
+swathi 4
  [kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4]
 ----------------------------------------
 
@@ -62,10 +62,10 @@ kumar 5
 Your Output: 
 kiran 2
 murthy 1
-Name: rajiv 1
-Name: kalyani 2
-Name: kumar 3
-Name: swathi 4
+rajiv 1
+kalyani 2
+kumar 3
+swathi 4
 alekhya 5
  [kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4, alekhya : 5]
 ----------------------------------------
@@ -89,9 +89,9 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-Name: kalyani 1
-Name: kumar 2
-Name: swathi 3
+kalyani 1
+kumar 2
+swathi 3
 alekhya 5
  [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 5]
 ----------------------------------------
@@ -119,12 +119,12 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-Name: kalyani 1
-Name: kumar 2
-Name: swathi 3
+kalyani 1
+kumar 2
+swathi 3
 Added 2 more rooms
 alekhya 6
-Name: manasa 4
+manasa 4
  [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 6, manasa :  4]
 ----------------------------------------
 
@@ -157,16 +157,16 @@ kumar 9
 Your Output: 
 kiran 2
 murthy 1
-Name: kumar 1
+kumar 1
 kumar 3
  [kiran : 2, murthy : 1, kumar :  1, kumar : 3]
 Added 5 more rooms
 alekhya 6
-Name: manasa 2
-Name: kumar 3
-Name: karthik 4
-Name: manohar 5
-Name: kumar 6
+manasa 2
+kumar 3
+karthik 4
+manohar 5
+kumar 6
  [kiran : 2, murthy : 1, kumar :  1, kumar : 3, alekhya : 6, manasa :  2, kumar :  3, karthik :  4, manohar :  5, kumar :  6]
 ----------------------------------------
 
@@ -203,16 +203,16 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-Name: kalyani 1
-Name: kumar 2
-Name: swathi 3
+kalyani 1
+kumar 2
+swathi 3
  [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3]
 Exception in thread "main" java.lang.NumberFormatException: For input string: " 2"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:569)
 	at java.lang.Integer.parseInt(Integer.java:615)
 	at Hotel.cancelReservations(Hotel.java:69)
-	at Solution.main(Solution.java:67)
+	at Solution.main(Solution.java:66)
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
@@ -253,15 +253,15 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-Name: kalyani 1
-Name: kumar 2
-Name: kumar 3
+kalyani 1
+kumar 2
+kumar 3
  [kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, kumar :  3]
 Exception in thread "main" java.lang.NumberFormatException: For input string: " 2"
 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
 	at java.lang.Integer.parseInt(Integer.java:569)
 	at java.lang.Integer.parseInt(Integer.java:615)
 	at Hotel.cancelReservations(Hotel.java:69)
-	at Solution.main(Solution.java:67)
+	at Solution.main(Solution.java:66)
 ----------------------------------------
 
