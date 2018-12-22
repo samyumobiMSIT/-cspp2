@@ -1,0 +1,14 @@
+13
+reserveN kiran 2
+reserveN murthy 1
+reserve kumar
+reserveN kumar 3
+print
+build 5
+reserveN alekhya 6
+reserve manasa
+reserve kumar
+reserve karthik
+reserve manohar
+reserve kumar
+print

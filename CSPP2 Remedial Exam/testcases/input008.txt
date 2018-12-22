@@ -1,0 +1,19 @@
+18
+reserveN kiran 2
+reserveN murthy 1
+reserveN rajiv 2
+reserve kalyani
+reserve kumar
+reserve kumar
+print
+cancel kumar
+print
+build 5
+reserveN alekhya 6
+reserve manasa
+reserve kumar
+reserve karthik
+reserve manohar
+reserve swetha
+reserve reddy
+print

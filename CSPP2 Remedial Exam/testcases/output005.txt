@@ -1,0 +1,16 @@
+kiran 2
+murthy 1
+Room is already reserved
+kalyani 3
+kumar 4
+swathi 5
+Added 2 more rooms
+alekhya 6
+manasa 7
+murthy 1
+kiran 2
+kalyani 3
+kumar 4
+swathi 5
+alekhya 6
+manasa 7

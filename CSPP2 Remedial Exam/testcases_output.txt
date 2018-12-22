@@ -1,0 +1,267 @@
+########## Testcase 0: Failed ##########
+Expected Output: 
+rehana 1
+karan 3
+murthy 2
+rajiv 5
+kalyani 4
+rehana 1
+murthy 2
+karan 3
+kalyani 4
+rajiv 5
+
+Your Output: 
+rehana 1
+karan 3
+murthy 2
+rajiv 5
+kalyani 3
+Rooms allocated are[rehana :  1, karan : 3, murthy :  2, rajiv : 5, kalyani :  3]
+----------------------------------------
+
+########## Testcase 1: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+rajiv 3
+kalyani 4
+kumar 5
+All Rooms are reserved
+murthy 1
+kiran 2
+rajiv 3
+kalyani 4
+kumar 5
+
+Your Output: 
+kiran 2
+murthy 1
+rajiv 1
+kalyani 2
+kumar 3
+swathi 4
+Rooms allocated are[kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4]
+----------------------------------------
+
+########## Testcase 2: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+rajiv 3
+kalyani 4
+kumar 5
+All Rooms are reserved
+All Rooms are reserved
+murthy 1
+kiran 2
+rajiv 3
+kalyani 4
+kumar 5
+
+Your Output: 
+kiran 2
+murthy 1
+rajiv 1
+kalyani 2
+kumar 3
+swathi 4
+alekhya 5
+Rooms allocated are[kiran : 2, murthy : 1, rajiv :  1, kalyani :  2, kumar :  3, swathi :  4, alekhya : 5]
+----------------------------------------
+
+########## Testcase 3: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+Room is already reserved
+kalyani 3
+kumar 4
+swathi 5
+All Rooms are reserved
+murthy 1
+kiran 2
+kalyani 3
+kumar 4
+swathi 5
+
+Your Output: 
+kiran 2
+murthy 1
+rajiv 2
+kalyani 1
+kumar 2
+swathi 3
+alekhya 5
+Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 5]
+----------------------------------------
+
+########## Testcase 4: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+Room is already reserved
+kalyani 3
+kumar 4
+swathi 5
+Added 2 more rooms
+alekhya 6
+manasa 7
+murthy 1
+kiran 2
+kalyani 3
+kumar 4
+swathi 5
+alekhya 6
+manasa 7
+
+Your Output: 
+kiran 2
+murthy 1
+rajiv 2
+kalyani 1
+kumar 2
+swathi 3
+Added 2 more rooms
+alekhya 6
+manasa 4
+Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3, alekhya : 6, manasa :  4]
+----------------------------------------
+
+########## Testcase 5: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+kumar 3
+Room is already reserved
+murthy 1
+kiran 2
+kumar 3
+Added 5 more rooms
+alekhya 6
+manasa 4
+kumar 5
+karthik 7
+manohar 8
+kumar 9
+murthy 1
+kiran 2
+kumar 3
+manasa 4
+kumar 5
+alekhya 6
+karthik 7
+manohar 8
+kumar 9
+
+Your Output: 
+kiran 2
+murthy 1
+kumar 1
+kumar 3
+Rooms allocated are[kiran : 2, murthy : 1, kumar :  1, kumar : 3]
+Added 5 more rooms
+alekhya 6
+manasa 2
+kumar 3
+karthik 4
+manohar 5
+kumar 6
+Rooms allocated are[kiran : 2, murthy : 1, kumar :  1, kumar : 3, alekhya : 6, manasa :  2, kumar :  3, karthik :  4, manohar :  5, kumar :  6]
+----------------------------------------
+
+########## Testcase 6: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+Room is already reserved
+kalyani 3
+kumar 4
+swathi 5
+murthy 1
+kiran 2
+kalyani 3
+kumar 4
+swathi 5
+kumar now has no reservations.
+murthy 1
+kiran 2
+kalyani 3
+swathi 5
+Added 2 more rooms
+alekhya 6
+manasa 4
+All Rooms are reserved
+murthy 1
+kiran 2
+kalyani 3
+manasa 4
+swathi 5
+alekhya 6
+
+Your Output: 
+kiran 2
+murthy 1
+rajiv 2
+kalyani 1
+kumar 2
+swathi 3
+Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, swathi :  3]
+Exception in thread "main" java.lang.NumberFormatException: For input string: " 2"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at Hotel.cancelReservations(Hotel.java:69)
+	at Solution.main(Solution.java:55)
+----------------------------------------
+
+########## Testcase 7: Failed ##########
+Expected Output: 
+kiran 2
+murthy 1
+Room is already reserved
+kalyani 3
+kumar 4
+kumar 5
+murthy 1
+kiran 2
+kalyani 3
+kumar 4
+kumar 5
+kumar now has no reservations.
+murthy 1
+kiran 2
+kalyani 3
+Added 5 more rooms
+alekhya 6
+manasa 4
+kumar 5
+karthik 7
+manohar 8
+All Rooms are reserved
+All Rooms are reserved
+murthy 1
+kiran 2
+kalyani 3
+manasa 4
+kumar 5
+alekhya 6
+karthik 7
+manohar 8
+
+Your Output: 
+kiran 2
+murthy 1
+rajiv 2
+kalyani 1
+kumar 2
+kumar 3
+Rooms allocated are[kiran : 2, murthy : 1, rajiv : 2, kalyani :  1, kumar :  2, kumar :  3]
+Exception in thread "main" java.lang.NumberFormatException: For input string: " 2"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:569)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at Hotel.cancelReservations(Hotel.java:69)
+	at Solution.main(Solution.java:55)
+----------------------------------------
+
