@@ -28,7 +28,7 @@ public class Solution{
 					                System.out.println("No reservation for you!");
 								    //give feedback
 								    if(roomnum!=-1)
-								        System.out.println(name+" reserved room "+roomnum);
+								        System.out.println(name+"  "+roomnum);
 								 
 									break;
 

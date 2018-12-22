@@ -12,11 +12,11 @@ kalyani 4
 rajiv 5
 
 Your Output: 
-rehana reserved room 1
+rehana  1
 karan 3
-murthy reserved room 2
+murthy  2
 rajiv 5
-kalyani reserved room 3
+kalyani  3
  [rehana 1, karan  3, murthy 2, rajiv  5, kalyani 3]
 ----------------------------------------
 
@@ -37,10 +37,10 @@ kumar 5
 Your Output: 
 kiran 2
 murthy 1
-rajiv reserved room 1
-kalyani reserved room 2
-kumar reserved room 3
-swathi reserved room 4
+rajiv  1
+kalyani  2
+kumar  3
+swathi  4
  [kiran  2, murthy  1, rajiv 1, kalyani 2, kumar 3, swathi 4]
 ----------------------------------------
 
@@ -62,10 +62,10 @@ kumar 5
 Your Output: 
 kiran 2
 murthy 1
-rajiv reserved room 1
-kalyani reserved room 2
-kumar reserved room 3
-swathi reserved room 4
+rajiv  1
+kalyani  2
+kumar  3
+swathi  4
 alekhya 5
  [kiran  2, murthy  1, rajiv 1, kalyani 2, kumar 3, swathi 4, alekhya  5]
 ----------------------------------------
@@ -89,9 +89,9 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-kalyani reserved room 1
-kumar reserved room 2
-swathi reserved room 3
+kalyani  1
+kumar  2
+swathi  3
 alekhya 5
  [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, swathi 3, alekhya  5]
 ----------------------------------------
@@ -119,12 +119,12 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-kalyani reserved room 1
-kumar reserved room 2
-swathi reserved room 3
+kalyani  1
+kumar  2
+swathi  3
 No rooms are added
 alekhya 6
-manasa reserved room 4
+manasa  4
  [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, swathi 3, alekhya  6, manasa 4]
 ----------------------------------------
 
@@ -157,16 +157,16 @@ kumar 9
 Your Output: 
 kiran 2
 murthy 1
-kumar reserved room 1
+kumar  1
 kumar 3
  [kiran  2, murthy  1, kumar 1, kumar  3]
 No rooms are added
 alekhya 6
-manasa reserved room 2
-kumar reserved room 3
-karthik reserved room 4
-manohar reserved room 5
-kumar reserved room 6
+manasa  2
+kumar  3
+karthik  4
+manohar  5
+kumar  6
  [kiran  2, murthy  1, kumar 1, kumar  3, alekhya  6, manasa 2, kumar 3, karthik 4, manohar 5, kumar 6]
 ----------------------------------------
 
@@ -203,9 +203,9 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-kalyani reserved room 1
-kumar reserved room 2
-swathi reserved room 3
+kalyani  1
+kumar  2
+swathi  3
  [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, swathi 3]
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
 	at Hotel.cancelReservations(Hotel.java:69)
@@ -250,9 +250,9 @@ Your Output:
 kiran 2
 murthy 1
 rajiv 2
-kalyani reserved room 1
-kumar reserved room 2
-kumar reserved room 3
+kalyani  1
+kumar  2
+kumar  3
  [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, kumar 3]
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
 	at Hotel.cancelReservations(Hotel.java:69)
