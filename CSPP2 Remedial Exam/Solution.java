@@ -5,7 +5,7 @@ import java.util.*;
 public class Solution{
 
   public static void main(String[] args){
-  		Hotel1 h = new Hotel1();
+  		Hotel h = new Hotel();
 		String name;
 		String num="";
 		int roomnum;

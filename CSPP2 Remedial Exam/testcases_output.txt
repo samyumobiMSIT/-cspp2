@@ -12,10 +12,12 @@ kalyani 4
 rajiv 5
 
 Your Output: 
-rehana  0
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+rehana  1
+karan  3
+murthy  2
+rajiv  5
+kalyani  3
+ [rehana 1, karan  3, murthy 2, rajiv  5, kalyani 3]
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -33,9 +35,13 @@ kalyani 4
 kumar 5
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+rajiv  1
+kalyani  2
+kumar  3
+swathi  4
+ [kiran  2, murthy  1, rajiv 1, kalyani 2, kumar 3, swathi 4]
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -54,9 +60,14 @@ kalyani 4
 kumar 5
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+rajiv  1
+kalyani  2
+kumar  3
+swathi  4
+alekhya  5
+ [kiran  2, murthy  1, rajiv 1, kalyani 2, kumar 3, swathi 4, alekhya  5]
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -75,9 +86,14 @@ kumar 4
 swathi 5
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+rajiv  2
+kalyani  1
+kumar  2
+swathi  3
+alekhya  5
+ [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, swathi 3, alekhya  5]
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -100,9 +116,16 @@ alekhya 6
 manasa 7
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+rajiv  2
+kalyani  1
+kumar  2
+swathi  3
+No rooms are added
+alekhya  6
+manasa  4
+ [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, swathi 3, alekhya  6, manasa 4]
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -132,9 +155,19 @@ manohar 8
 kumar 9
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+kumar  1
+kumar  3
+ [kiran  2, murthy  1, kumar 1, kumar  3]
+No rooms are added
+alekhya  6
+manasa  2
+kumar  3
+karthik  4
+manohar  5
+kumar  6
+ [kiran  2, murthy  1, kumar 1, kumar  3, alekhya  6, manasa 2, kumar 3, karthik 4, manohar 5, kumar 6]
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -167,9 +200,16 @@ swathi 5
 alekhya 6
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+rajiv  2
+kalyani  1
+kumar  2
+swathi  3
+ [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, swathi 3]
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
+	at Hotel.cancelReservations(Hotel.java:69)
+	at Solution.main(Solution.java:68)
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
@@ -207,8 +247,15 @@ karthik 7
 manohar 8
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Hotel1.reserveRoom(Hotel1.java:58)
-	at Solution.main(Solution.java:53)
+kiran  2
+murthy  1
+rajiv  2
+kalyani  1
+kumar  2
+kumar  3
+ [kiran  2, murthy  1, rajiv  2, kalyani 1, kumar 2, kumar 3]
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
+	at Hotel.cancelReservations(Hotel.java:69)
+	at Solution.main(Solution.java:68)
 ----------------------------------------
 
