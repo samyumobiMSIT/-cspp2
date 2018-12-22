@@ -18,16 +18,20 @@ public class Hotel
     rooms = new ArrayList(numRooms);
     max=numRooms;
   }
+   //adds more rooms to the hotel, returns true on success
   public boolean buildRooms(int num)
   {
+
     if(num<=0) {
       return false;
     }
+    //increase the capacity of the rooms
     rooms.ensureCapacity(rooms.size() + num);
      for(int i=limit;i<limit+num;i++)    roomNumbers[i]=limit+1;
      limit=limit+num;
     return true;
   }
+   
   public int reserveRoom(String person)
   {
     int roomnumber=0;
@@ -45,7 +49,7 @@ public class Hotel
     rooms.add(val);
     return roomnumber;
   }
- 
+ //if the room is empty then a room is reserved with person name and room num.
   public boolean reserveRoom(String person, int roomNum)
   {
       if(roomNum>limit) 
