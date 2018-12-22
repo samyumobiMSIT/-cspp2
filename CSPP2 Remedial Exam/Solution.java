@@ -7,7 +7,7 @@ public class Solution{
   public static void main(String[] args){
   		Hotel h = new Hotel();
 		String name;
-		String num;
+		String num="";
 		int roomnum;
   		Scanner scan = new Scanner(System.in);
 		int readLines = Integer.parseInt(scan.nextLine());
@@ -72,8 +72,15 @@ public class Solution{
    								 break;
 					case "build":
 								//add more number of rooms to the existing rooms
-								roomnum = Integer.parseInt(tokens[1]);
-								
+									roomnum = -1;
+									if(num!=null){
+										try{
+											roomnum = Integer.parseInt(num);
+										}catch(Exception e){
+											roomnum = -1;
+										}
+									}
+																
 							    if(h.buildRooms(roomnum))
 							        System.out.println("Added "+roomnum+" more rooms");
 							    else
