@@ -38,7 +38,7 @@ public class Hotel
 			}
 			else roomnumber=-1;
 		}
-		String val=person+" :  "+roomnumber;
+		String val=person+" "+roomnumber;
 		rooms.add(val);
 		return roomnumber;
 	}
@@ -53,7 +53,7 @@ public class Hotel
 		  else if(roomNumbers[roomNum]<0)
 					return false;
 		
-		else  	rooms.add(person+" : "+roomNum);
+		else  	rooms.add(person+"  "+roomNum);
  
 		return true;
 	}
@@ -66,7 +66,7 @@ public class Hotel
 			String name=(value.split(" "))[0];
 			if(name.equals(person))
 			{
-				int roomnumber=Integer.parseInt((value.split(" : "))[1]);
+				int roomnumber=Integer.parseInt((value.split("  "))[1]);
 				roomNumbers[roomnumber]=0;
 				rooms.remove(i);
 			}
