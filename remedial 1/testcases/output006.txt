@@ -1,0 +1,33 @@
+kiran 2
+murthy 1
+Room is already reserved
+kalyani 3
+kumar 4
+kumar 5
+murthy 1
+kiran 2
+kalyani 3
+kumar 4
+kumar 5
+kumar now has no reservations.
+murthy 1
+kiran 2
+kalyani 3
+Added 5 more rooms
+alekhya 6
+manasa 4
+kumar 5
+karthik 7
+manohar 8
+swetha 9
+reddy 10
+murthy 1
+kiran 2
+kalyani 3
+manasa 4
+kumar 5
+alekhya 6
+karthik 7
+manohar 8
+swetha 9
+reddy 10

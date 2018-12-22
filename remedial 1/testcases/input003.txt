@@ -1,0 +1,9 @@
+8
+reserveN kiran 2
+reserveN murthy 1
+reserve rajiv
+reserve kalyani
+reserve kumar
+reserve swathi
+reserveN alekhya 5
+print

@@ -1,0 +1,9 @@
+6
+reserve rehana
+reserveN karan 3
+reserve murthy
+reserveN rajiv 5
+reserve kalyani
+print
+
+
