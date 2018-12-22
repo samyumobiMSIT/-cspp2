@@ -7,7 +7,6 @@ public class Solution{
   public static void main(String[] args){
   		Hotel h = new Hotel();
 		String name;
-		String num;
 		int roomnum;
   		Scanner scan = new Scanner(System.in);
 		int readLines = Integer.parseInt(scan.nextLine());
@@ -37,7 +36,7 @@ public class Solution{
 									//if we got a bad input, report failure
 									
 
-								    if((name==null) || (name.equals("") ))
+								    if((name==null) || (name.equals("")))
 								        roomnum = -1;
 								    else{
 								    	try{
