@@ -17,12 +17,15 @@ public class Solution{
 				switch(tokens[0])
 				{
 					case "reserve":
+									System.out.print("Name: ");
+									System.out.flush();
 									name = tokens[1];
 									roomnum = -1;
 								    //if we got a good name, try to reserve a room
 								    if(!((name==null) || (name.equals(""))))
 								        roomnum = h.reserveRoom(name);
-
+								    if(roomnum==-1)
+					                System.out.println("No reservation for you!");
 								    //give feedback
 								    if(roomnum!=-1)
 								        System.out.println(name+" "+roomnum);
@@ -32,15 +35,24 @@ public class Solution{
 					case "reserveN":
 									name = tokens[1];
 									//if we got a bad input, report failure
+									
 
 								    if((name==null) || (name.equals("")))
 								        roomnum = -1;
 								    else{
-								     roomnum = Integer.parseInt(tokens[2]);
+								    	try{
+								    		roomnum = Integer.parseInt(tokens[2]);
+								    	}
+								    	catch(Exception e){
+								    		roomnum = -1;
+								    	}
+								     
 								    }    
 								    //give feedback
-								    if(h.reserveRoom(name, roomnum))
-								        System.out.println(name+" "+roomnum);
+								    if(!h.reserveRoom(name, roomnum))
+								        System.out.println("No reservation for you!");
+								    else
+								    	System.out.println(name+" "+roomnum);
 								    
 								    break;
 
