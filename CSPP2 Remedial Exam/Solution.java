@@ -5,7 +5,7 @@ import java.util.*;
 public class Solution{
 
   public static void main(String[] args){
-  		Hotel h = new Hotel();
+  		Hotel1 h = new Hotel1();
 		String name;
 		String num="";
 		int roomnum;
@@ -25,7 +25,8 @@ public class Solution{
 								    if(!((name==null) || (name.equals(""))))
 								        roomnum = h.reserveRoom(name);
 								    if(roomnum==-1)
-					                System.out.println("No reservation for you!");
+								    	System.out.println("No reservation for you!");
+								        //return -1;
 								    //give feedback
 								    if(roomnum!=-1)
 								        System.out.println(name+"  "+roomnum);
@@ -50,9 +51,9 @@ public class Solution{
 								    }    
 								    //give feedback
 								    if(!h.reserveRoom(name, roomnum))
-								        System.out.println("No reservation for you!");
+								        System.out.println("Room is already reserved");
 								    else
-								    	System.out.println(name+" "+roomnum);
+								    	System.out.println(name+"  "+roomnum);
 								    
 								    break;
 

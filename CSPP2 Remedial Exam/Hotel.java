@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 
 public class Hotel
 {
@@ -78,3 +78,4 @@ public class Hotel
 		 System.out.println(" "+rooms);     
 	}
 }
+*/
