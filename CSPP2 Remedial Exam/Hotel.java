@@ -6,6 +6,7 @@ public class Hotel
   public int max=0;
   int[] roomNumbers;
   static int limit=15;
+  Reservation r;
   public Hotel()
   {
       rooms = new ArrayList(15);
@@ -19,7 +20,9 @@ public class Hotel
   }
   public boolean buildRooms(int num)
   {
-    if(num<=0)return false;
+    if(num<=0) {
+      return false;
+    }
     rooms.ensureCapacity(rooms.size() + num);
      for(int i=limit;i<limit+num;i++)    roomNumbers[i]=limit+1;
      limit=limit+num;
