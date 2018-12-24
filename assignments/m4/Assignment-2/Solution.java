@@ -1,3 +1,4 @@
+//m4-ag2
 import java.util.Scanner;
 /**.
     * scanner function for taking inputs
