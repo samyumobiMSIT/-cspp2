@@ -1,3 +1,4 @@
+//m2-a10
 import java.util.Scanner;
 class bigger_equal_smaller{
 	public static void main(String[] a){
