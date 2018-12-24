@@ -1,4 +1,4 @@
-//m1-a13 Program to find Quotient And Remainder
+// m1-a13 Program to find Quotient And Remainder
 import java.util.Scanner;
 class quotient_remainder{
 	public static void main(String ar[]){

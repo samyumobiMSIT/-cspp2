@@ -1,4 +1,4 @@
-//m1-a14 Program to find Quotient And Remainder
+// m1-a14 Program to find Quotient And Remainder
 import java.util.Scanner;
 class degrees_to_fahrenheit{
 	public static void main(String ar[]){

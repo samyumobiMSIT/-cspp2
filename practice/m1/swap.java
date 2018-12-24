@@ -1,4 +1,4 @@
-//m1-a12 Program to swap two int's
+// m1-a12 Program to swap two int's
 import java.util.Scanner;
 class swap{
 	public static void main(String ar[]){
