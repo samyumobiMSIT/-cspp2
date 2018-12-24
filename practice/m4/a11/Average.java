@@ -1,3 +1,4 @@
+//m4-a11
 import java.util.Scanner;
 /**
  * Class for average.

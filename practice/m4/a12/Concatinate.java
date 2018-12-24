@@ -1,3 +1,4 @@
+//m4-a12
 import java.util.Scanner;
 /**
  * Class for concatinate.
