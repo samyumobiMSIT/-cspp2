@@ -1,0 +1,8 @@
+warning: LF will be replaced by CRLF in assignments/Module 10/Assignment-1/List.java.
+The file will have its original line endings in your working directory.
+[master e35934f] "list_homework: 2/3 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 3 files changed, 1 insertion(+), 36 deletions(-)
+ rewrite assignments/Module 10/Assignment-1/git_output.txt (100%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   ac82d12..e35934f  master -> master
