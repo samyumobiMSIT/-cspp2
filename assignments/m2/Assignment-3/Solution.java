@@ -1,3 +1,4 @@
+//m2-ag3
 import java.util.Scanner;
 /**
  * Class for solution.
