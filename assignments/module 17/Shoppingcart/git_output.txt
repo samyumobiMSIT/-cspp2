@@ -1,0 +1,8 @@
+warning: LF will be replaced by CRLF in assignments/module 17/Shoppingcart/Solution.java.
+The file will have its original line endings in your working directory.
+[master 598fb82] "cspp1_m17_assignment1_Codecamp-ShoppingCart: 4/4 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 5 files changed, 1 insertion(+), 15 deletions(-)
+ rewrite assignments/module 17/Shoppingcart/git_output.txt (100%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/samyumobiMSIT/-cspp2.git
+   f47983b..598fb82  master -> master
