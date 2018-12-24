@@ -1,4 +1,5 @@
 //SumOfNNumbers.java
+//m3-a7
 import java.util.Scanner;
 class SumOfNNumbers{
 	 public static void main(String[] args) {
