@@ -1,3 +1,4 @@
+//m7-ag1
 import java.util.Scanner;
 /**
  * Class for input validator.
